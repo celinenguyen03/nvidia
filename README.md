@@ -49,7 +49,7 @@ In order to evaluate sales performance, we focused on the following key metrics:
 
 ## Dashboard
 
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/celine.nguyen7574/viz/NVIDIAGPUSalesPerformance/NVIDIAGPUSalesPerformance). This dashboard enables users to filter by Plus Tiers and focuses on trends and values in subscription metrics, churn rate metrics, and game popularity metrics.
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/celine.nguyen7574/viz/NVIDIAGPUSalesPerformance/NVIDIAGPUSalesPerformance). This dashboard enables users to filter by Market Segment and focuses on trends and values in revenue metrics, gpu performance metrics, and unit sales metrics.
 
 ![NVIDIA GPU Sales Performance](https://github.com/user-attachments/assets/6434e6f8-f6aa-45b8-b6a7-8d005fda7a26)
 
