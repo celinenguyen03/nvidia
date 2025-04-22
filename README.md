@@ -21,9 +21,8 @@ In order to evaluate sales performance, we focused on the following key metrics:
 * **Average Selling Price (ASP) by Market Segment**: The average revenue per unit sold within each market segment.
 
 **Year-over-Year (YoY) Revenue Growth Rate**
-* Across user tenure groups, 31-90 days (recent members) had the highest churn rate (12.1%).
-* These could be due to many PlayStation Plus subscribers making use of the first month free who subsequently cancel to avoid paying for additional months.
-* Surprisingly, fresh members (0-30 days) and more tenured members (91-365 days) share a very similar churn rate of 11.43% and 11.30% respectively.
+* From 2023 to 2025, the YoY revenue growth rate has been rapidly decreasing, dropping by -16.53% from 2023 to 2024 to -75.54% from 2024 to 2025.
+* The Data Center/AI market segment suffered massive decreases in revenue in comparison to other market segments which only experienced relatively small declines.
 
 **Total Revenue by Market Segment**
 * Across all regions, Europe and North America experienced the lowest subscription rate at a rate of 68.45% and 68.90% respectively.
