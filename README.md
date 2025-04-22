@@ -22,29 +22,30 @@ In order to evaluate sales performance, we focused on the following key metrics:
 
 **Year-over-Year (YoY) Revenue Growth Rate**
 * From 2023 to 2025, the YoY revenue growth rate has been rapidly decreasing, dropping by -16.53% from 2023 to 2024 to -75.54% from 2024 to 2025.
-* The Data Center/AI market segment suffered massive decreases in revenue in comparison to other market segments which only experienced relatively small declines.
+* The Data Center/AI market segment suffered massive decreases in revenue in comparison to other market segments which only experienced relatively small declines when comparing total revenue contribution.
+* Overall, all market segments experienced significant YoY revenue growth decline, affecting NVIDIA's growth negatively.
 
 **Total Revenue by Market Segment**
-* Across all regions, Europe and North America experienced the lowest subscription rate at a rate of 68.45% and 68.90% respectively.
-* The Plus Tiers all experienced a very similar amount of subscriptions, averaging to around 23% per Plus tiers (Essential, Extra, and Premium), with roughly 30% of all PlayStation users having no subscription plan at all.
-* Overall, the total subscription rate of users is the highest among fresh members, and it consistently gets lower the older an active PlayStation user is, starting at 74.4% for fresh members, waning off to 69.3% for legacy members (older than a year).
+* Across all market segments, Data Center/AI generated the most revenue, totalling to 84.95% of NVIDIA's total revenue.
+* Professional Visualization contributes the second most to NVIDIA's revenue at 8.02%, which is 10x smaller in comparison to Data Center/AI.
+* When combined, all the Gaming segments (ranging from Entry-Level to High-End) total to 6.21% of NVIDIA's total revenue. Despite not generating a majority of the revenue, the Gaming segment has comparable unit sales to the previous two segments.
 
 **Sales Performance by Region and Market Segment (Monthly)**
-* The most played titles available in the PlayStation were Fortnite, GTA V, and Marvel's Spider Man, ranging from 105k, 100k, 96k gaming sessions respectively.
-* Fortnite had the highest amount of gaming sessions, which could be due to quick match times causing frequent closing and opening of this game.
-* Adventure genre games tend to have less gaming sessions per user, but experience longer playtimes per session.
+* Sales performance by region and market segment revealed a peak in the earlier months of 2023, which then fluctuated with an overall downward trend towards 2025.
+* There are different performance levels across Asia, Europe, and North America for various market segments.
+* OEM/Embedded experienced the strongest fluctuation in monthly revenue versus the Gaming segments, which fluctuated the least compared to other segments.
 
 **Average Selling Price (ASP) by Market Segment**
-* On average, each PlayStation user spent around 60 minutes per gaming session across all subscription types and games.
-* Action genres and subgenres had the longest playtime sessions, averaging to well over 2 hours per session, which is 2x the amount of average playtime sessions.
-* Certain games like Final Fantasy, Elden Ring, NieR Automata, and Minecraft had the highest average playtime compare to other popular titles with more frequent shorter sessions.
+* A majority of the unit sales for GPUs were from the Gaming segment, despite having lower ASP ($1071.33) in comparison to Data Center/AI ($19,027).
+* Professional Visualization shows relatively high ASP ($1,848) and unit sales (89k).
+* OEM/Embedded has lower ASP ($737) and unit sales (22k) compared to others, but still represents a consistent part of NVIDIA.
 
 ## Recommendations
 
-* Introductory Offers: Explore limited-time offers or exclusive content for new subscribers, who has the highest subscription rate among users. Subsequently, analyze user activity patterns and survey churned users to understand why users churn around the 1-3 month mark.
-* Loyalty Rewards Program: Introduce new benefits like loyalty rewards for long-term subscribers to incentivize Plus members to stay for longer periods and reward our tenured members.
-* Regional Marketing Strategies: Investigate Europe and North America regions to understand their low subscription rates. Collect user data on regional pricing and attitudinal data on communication quality in these regions.
-* Game-Specific Opportunities: Offer exclusive in-game content, discounts, or early access to expansions for the popular titles for PlayStation Plus subscribers to incentivize joining the PlayStation ecosystem.
+* OEM/Embedded Growth: Expand sales and market presence in the OEM/Embedded segment, like potential for customization or specialized solutions.
+* Investigate Drivers: Investigate drivers behind declining revenue generation, such as demand in specific market segments or new product releases from competitors.
+* Gaming Segment: Monitor and leverage the high sales volume in the Gaming segment for continued growth and profitability. This could include encouraging gamers to upgrade to high-end GPUs or explore our other products.
+* Professional Visualization Segment: Expand on the RTX A6000 and RTX A6000 Ada, as these GPU models make up a significant portion of the segment's total revenue generation outside of Data Center/AI.
 
 ## Dashboard
 
